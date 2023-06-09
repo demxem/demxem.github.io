@@ -1,5 +1,10 @@
 @import url(fontawesome-all.min.css);
 
+/*
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
 
 html,
 body,
@@ -2550,7 +2555,7 @@ input[type="radio"]+label:before {
 }
 
 .wrapper.style1-alt .icon.major:before {
-	color: #493382;
+	color: #343382;
 }
 
 .wrapper.style2 .icon.major:before {
@@ -3255,7 +3260,7 @@ table.alt tfoot {
 }
 
 .wrapper.style1 {
-	background-color: #5e42a6;
+	background-color: #403a51;
 }
 
 .wrapper.style1-alt {
@@ -3271,11 +3276,11 @@ table.alt tfoot {
 }
 
 .wrapper.style3 {
-	background-color: #b74e91;
+	background-color: #6c4874;
 }
 
 .wrapper.style3-alt {
-	background-color: #953d75;
+	background-color: #997f90;
 }
 
 .wrapper.fullscreen {
