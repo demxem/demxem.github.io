@@ -2171,7 +2171,7 @@ button:hover:active:after,
 	width: 20px;
 	height: 4px;
 	border-radius: 2px 0 0 2px;
-	background-color: #382ecc;
+	background-color: #6761c0;
 	transition: .5s;
 }
 
@@ -2183,7 +2183,7 @@ button:hover:active:after,
 	width: 100px;
 	height: 4px;
 	border-radius: 0 2px 2px 0;
-	background-color: #382ecc;
+	background-color: #6761c0;
 }
 
 .skills-icons {
@@ -2196,7 +2196,7 @@ button:hover:active:after,
 	height: 90px;
 	position: relative;
 	border-radius: 45px;
-	background-color: #fff;
+	background-color: #ffffff89;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -2210,7 +2210,7 @@ button:hover:active:after,
 	left: 0;
 	width: 50%;
 	height: 90px;
-	background: rgba(100, 100, 100, 0.5);
+	background: rgba(63, 45, 198, 0.555);
 	border-radius: 45px 0 0 45px;
 }
 
@@ -3260,7 +3260,7 @@ table.alt tfoot {
 }
 
 .wrapper.style1 {
-	background-color: #403a51;
+	background-color: #5e42a6;
 }
 
 .wrapper.style1-alt {
@@ -3276,7 +3276,7 @@ table.alt tfoot {
 }
 
 .wrapper.style3 {
-	background-color: #6c4874;
+	background-color: #7d4e92;
 }
 
 .wrapper.style3-alt {
