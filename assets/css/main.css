@@ -3026,10 +3026,10 @@ body.is-ie .spotlights>section {
 .spotlights>section>.image {
 	background-position: center center;
 	background-size: cover;
-	border-radius: 0;
+	border-radius: 1;
 	display: block;
 	position: relative;
-	width: 25em;
+	width: 35em;
 }
 
 .spotlights>section>.image img {
